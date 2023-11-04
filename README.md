@@ -151,7 +151,8 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![image](https://github.com/Nachiyarr/Calc/assets/113497340/0a8ccd17-ec3d-4773-ac87-c2b456f1c5db)
+![SSS](https://github.com/Nachiyarr/Calc/assets/113497340/a1d05fbe-f201-4a1d-85ec-6248fce35a60)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
